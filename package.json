@@ -18,5 +18,13 @@
   "homepage": "https://github.com/wwlweihai/react-first#readme",
   "dependencies": {
     "browser-sync": "^2.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.0.2",
+    "css-loader": "^0.23.1",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.2",
+    "postcss-cli": "^2.1.0",
+    "style-loader": "^0.13.0"
   }
 }
