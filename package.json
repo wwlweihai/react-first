@@ -1,0 +1,22 @@
+{
+  "name": "react-first",
+  "version": "1.0.0",
+  "description": "react-first sike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wwlweihai/react-first.git"
+  },
+  "author": "ww",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwlweihai/react-first/issues"
+  },
+  "homepage": "https://github.com/wwlweihai/react-first#readme",
+  "dependencies": {
+    "browser-sync": "^2.9.3"
+  }
+}
